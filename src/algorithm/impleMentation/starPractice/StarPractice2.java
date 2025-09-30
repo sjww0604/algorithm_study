@@ -11,6 +11,7 @@ public class StarPractice2 {
         int N = sc.nextInt();
 
         // 2. 반복문을 통한 *을 문자열로 저장
+        // 반복문 사용 O(N)
         for (int i = 1; i <= N; i++) {
             String stars = "*".repeat(i);
             System.out.println(String.format("%" + N + "s", stars));

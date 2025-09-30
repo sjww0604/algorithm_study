@@ -20,7 +20,8 @@ public class StarPractice10 {
          // 2. 재귀 호출 시작
         draw(0,0, N);
 
-        // 3. 출력 (2차원배열형태로 출력 시 시간 초과 이슈 발생)
+        // 3. 출력 (2차원 배열 형태로 출력 시 시간 초과 이슈 발생)
+        // 시간복잡도 : 전체 초기화 + 전체 출력 → O(N^2)
         for (int i = 0; i < N; i++) {
             System.out.println(new String(board[i])); // 행을 통째로 출력
         }
