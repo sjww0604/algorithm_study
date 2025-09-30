@@ -19,9 +19,16 @@
 <details>
 <summary>별 찍기 시리즈 (23문제)</summary>
 
-- [별 찍기 1](./starPractice/Star1.java) | 기본 출력
-- [별 찍기 2](./starPractice/Star2.java) | 오른쪽 정렬
-- ...
+- [별 찍기 1](./starPractice/StarPractice1.java) | 기본 출력
+- [별 찍기 2](./starPractice/StarPractice2.java) | 오른쪽 정렬
+- [별 찍기 3](./starPractice/StarPractice3.java) | 역순 출력
+- [별 찍기 4](./starPractice/StarPractice4.java) | 역순 오른쪽 정렬 출력
+- [별 찍기 5](./starPractice/StarPractice5.java) | 가운데 정렬 출력
+- [별 찍기 6](./starPractice/StarPractice6.java) | 역순 가운데 정렬 출력
+- [별 찍기 7](./starPractice/StarPractice7.java) | 증가-감소 연속 출력
+- [별 찍기 8](./starPractice/StarPractice8.java) | 가운데 공백에 따른 증감출력 (리본모양)
+- [별 찍기 9](./starPractice/StarPractice9.java) | 양쪽 공백에 따른 증감출력 (모래시계모양)
+- [별 찍기 10](./starPractice/StarPractice10.java) | 재귀패턴 연습 (3의 거듭제곱 기준)
 </details>
 
 
