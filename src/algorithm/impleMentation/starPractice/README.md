@@ -8,7 +8,7 @@
 **starPractice**
 
 📂 algorithm
-│───── 📂 implemenTation // 구현력 기르기 <<
+│───── 📂 implementation // 구현력 기르기 <<
 │      ├── 📂 starPractice // 별 찍기 시리즈 23문제       
 │      │   └──StarPractice.java // 별 찍기 예제풀이...
 │      └── 📂 nmseries // N과 M 시리즈 12문제 
@@ -19,16 +19,16 @@
 <details>
 <summary>별 찍기 시리즈 (23문제)</summary>
 
-- [별 찍기 1](src/algorithm/impleMentation/starPractice/StarPractice1.java) | 기본 출력
-- [별 찍기 2](src/algorithm/impleMentation/starPractice/StarPractice2.java) | 오른쪽 정렬
-- [별 찍기 3](src/algorithm/impleMentation/starPractice/StarPractice3.java) | 역순 출력
-- [별 찍기 4](src/algorithm/impleMentation/starPractice/StarPractice4.java) | 역순 오른쪽 정렬 출력
-- [별 찍기 5](src/algorithm/impleMentation/starPractice/StarPractice5.java) | 가운데 정렬 출력
-- [별 찍기 6](src/algorithm/impleMentation/starPractice/StarPractice6.java) | 역순 가운데 정렬 출력
-- [별 찍기 7](src/algorithm/impleMentation/starPractice/StarPractice7.java) | 증가-감소 연속 출력
-- [별 찍기 8](src/algorithm/impleMentation/starPractice/StarPractice8.java) | 가운데 공백에 따른 증감출력 (리본모양)
-- [별 찍기 9](src/algorithm/impleMentation/starPractice/StarPractice9.java) | 양쪽 공백에 따른 증감출력 (모래시계모양)
-- [별 찍기 10](src/algorithm/impleMentation/starPractice/StarPractice10.java) | 재귀패턴 연습 (3의 거듭제곱 기준)
+- [별 찍기 1](./StarPractice1.java) | 기본 출력
+- [별 찍기 2](./StarPractice2.java) | 오른쪽 정렬
+- [별 찍기 3](./StarPractice3.java) | 역순 출력
+- [별 찍기 4](./StarPractice4.java) | 역순 오른쪽 정렬 출력
+- [별 찍기 5](./StarPractice5.java) | 가운데 정렬 출력
+- [별 찍기 6](./StarPractice6.java) | 역순 가운데 정렬 출력
+- [별 찍기 7](./StarPractice7.java) | 증가-감소 연속 출력
+- [별 찍기 8](./StarPractice8.java) | 가운데 공백에 따른 증감출력 (리본모양)
+- [별 찍기 9](./StarPractice9.java) | 양쪽 공백에 따른 증감출력 (모래시계모양)
+- [별 찍기 10](./StarPractice10.java) | 재귀패턴 연습 (3의 거듭제곱 기준)
 </details>
 
 
