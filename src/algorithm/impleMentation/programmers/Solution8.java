@@ -6,7 +6,7 @@ package algorithm.impleMentation.programmers;
 직각 : angle = 90
 둔각 : 90 < angle < 180
 평각 : angle = 180 */
-public class Soultion8 {
+public class Solution8 {
     class Solution {
         public int solution(int angle) {
             int answer = 0;
